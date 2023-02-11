@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(158, 188, 243);
+    text-transform: uppercase;
+}
+.header{
+    background-image: url(./images/stitches.jpg3.jpg);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    border-radius: 5px; 
+    border-style: hidden;
+}
+#one{border: 1px solid;
+    border-radius: 2px;
+    height: 6pc;
+    width: 7pc;
+    text-transform: uppercase;
+    color: black;
+    border-style: hidden;
+
+}
+ul{
+    list-style-type: none;
+    padding: 0%;
+    width: 200px;
+    text-align: center;
+    display: flex;
+   
+}
+li{
+    border: 3px solid;
+    border-radius: 5px;
+    border-style: hidden;
+    padding: 0%;
+    width: 200px;
+    margin: 10px;
+   background-color: palegreen;
+}
+.content1:hover{
+    border: 1px solid;
+    padding: 0%;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(247, 242, 242);
+    border-style: hidden;
+    
+}
+.content2{
+  padding: 0%;
+   margin: 10px;
+   background-color: rgb(145, 240, 200);
+   font-weight: 700;
+   border-style: hidden;
+   opacity: 100%;
+   text-align: center;
+}
+
+.plan{
+    background-color: aquamarine;
+    text-align: center;
+    text-transform: uppercase;
+}
+.reg{
+    background-color: rgb(240, 178, 240);
+    background-image: url(./images/stitches.jpg3.jpg);
+    font-style: italic;
+    font-weight: 800;
+    }
+
